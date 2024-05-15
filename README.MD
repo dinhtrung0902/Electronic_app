@@ -21,13 +21,6 @@
    <tr><td>seller1</td><td>seller</td><td>SELLER</td></tr>
    <tr><td>buyer1</td><td>buyer</td><td>BUYER</td></tr>
 </table>
-<hr>
-
-**VIDEO INSTRUCTION AT THE BOTTOM**
-## DEMO ELECTRONIC APPLICATION
-await for me
-<hr>
-
 
 ## REQUIREMENTS
 - DOWLOAD > [JDK 1.8](https://drive.google.com/file/d/1uT6gHuqjFmxXPYKYI_HA76geQDDgMZPT/view?usp=sharing)<br/>
