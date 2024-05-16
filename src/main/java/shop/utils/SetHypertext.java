@@ -72,7 +72,7 @@ public class SetHypertext {
         String title = "SHOP_APP GENERATE CODE";
         String heading = "SHOP_APP nhận được yêu cầu cung cấp mã xác thực";
         String note = "Cảm ơn bạn đã sử dụng dịch vụ của tôi<div style='text-align: start'><b>THÂN ÁI!</b></div>";
-        String footer = "<em>Thông tin khác về tôi: </em><ol><li><a href='https://github.com/studev1922'>github.studev</a></li><li><a href='mailto:sdhoa1922@gmail.com'>sdhoa1922@gmail.com</a></li></ol>";
+        String footer = "<em>Thông tin khác về tôi: </em><ol><li><a href='https://github.com/dinhtrung0902'>github</a></li><li><a href='mailto:dinhtrung0902@gmail.com'>dinhtrung0902@gmail.com</a></li></ol>";
 
         return SetHypertext.htmlTempCode(title, heading, code, note, footer);
     }
